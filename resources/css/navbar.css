@@ -1,0 +1,8 @@
+.links{
+    display: flex;
+    background: red;
+}
+
+body{
+    background-color: yellow;
+}
